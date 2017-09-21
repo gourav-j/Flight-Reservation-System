@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FRS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FRS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

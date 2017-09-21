@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="External JAR">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/External JAR/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/External JAR/jxdatepicker-support-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
