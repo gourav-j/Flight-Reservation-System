@@ -1,5 +1,4 @@
 # Flight-Reservation-System
-Java course project
 
 Implemented using : JAVA & Swing.
 
